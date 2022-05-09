@@ -27,6 +27,13 @@
             "Version": "1.0.2",
             "Author": "BrandonItaly",
             "DownloadLink": "https://github.com/7urtle/PrivateServerForCN/files/8646305/TutorialCharacters.zip"
+        }, 
+        {
+            "Name": "PractiseMod",
+            "UUID": "b05b3faa-1180-4005-9a68-f1d4369e3c73",
+            "Version": "4.1.0",
+            "Author": "7urtle",
+            "DownloadLink": "https://github.com/7urtle/PrivateServerForCN/files/8648101/PractiseMod.zip"
         }
     ]
 }
